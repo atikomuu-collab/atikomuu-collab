@@ -5,8 +5,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1B27,50:3B4261,100:7AA2F7&height=120&section=header&animation=twinkling" width="100%" />
 
   <!-- ข้อความพิมพ์อัตโนมัติ (แก้ชื่อและ Username ในวงเล็บ) -->
-  <a href="https://github.com/[atikomuu-collab]">
-    <img src="https://readme-typing-svg.demolab.com?font=Prompt&weight=600&size=26&duration=3500&pause=1000&color=7AA2F7&center=true&vCenter=true&width=680&lines=สวัสดี+!!!+[Kichiro];นิสิตสาขาเทคโนโลยีสารสนเทศ;Workflow+Automation+%26+Data+Analytics" alt="Typing SVG" />
+  <a href="https://github.com/atikomuu-collab">
+    <img src="https://readme-typing-svg.demolab.com?font=Prompt&weight=600&size=26&duration=3500&pause=1000&color=7AA2F7&center=true&vCenter=true&width=680&lines=สวัสดี+!!!+Kichiro;นิสิตสาขาเทคโนโลยีสารสนเทศ;Workflow+Automation+%26+Data+Analytics" alt="Typing SVG" />
   </a>
 
   <!-- เอฟเฟกต์พื้นหลังคลื่นเคลื่อนไหวด้านล่าง -->
