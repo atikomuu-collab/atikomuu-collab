@@ -1,5 +1,4 @@
-# สวัสดีทุกคน !!!, ผม Kichiro 👋
-# Hello everyone!!! I’m Kichiro (name in english)
+# Hello everyone!!! I’m Kichiro (name in english)👋
 
 <div align="center">
   <!-- คลื่นพื้นหลังด้านบน -->
