@@ -6,7 +6,6 @@
 - 🌱 กำลังเรียนรู้เพิ่มเติมเกี่ยวกับ: **เทคโนโลยี AI ใหม่ , Cybersecurity**
 - 💬 ถามผมได้เรื่อง: **ทักษะที่ถนัด คือ C++, Node.js, Python , Java , JavaScript , Data Sci , N8N , HTML , CSS , SQL**
 - 📫 ช่องทางติดต่อ: **E-mail : atikom.u@ku.th**
-- 📱 
 
 
 ---
