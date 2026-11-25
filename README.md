@@ -1,11 +1,15 @@
-# สวัสดีทุกคน !!!, ผม อธิคม 👋
+# สวัสดีทุกคน !!!, ผม Kichiro 👋
+# Hello everyone!!! I’m Kichiro (name in english)
 
 **ตำแหน่งงาน / สิ่งที่คุณสนใจ : Software Tester, IT Security , Data Analyst**
 
-- 🔭 ปัจจุบันกำลังศึกษา: **มหาวิทยาลัยเกษตรศาสตร์ วิทยาเขตกำแพงแสน สาขา เทคโนโลยีสารสนเทศ**
-- 🌱 กำลังเรียนรู้เพิ่มเติมเกี่ยวกับ: **เทคโนโลยี AI ใหม่ , Cybersecurity**
-- 💬 ถามผมได้เรื่อง: **ทักษะที่ถนัด คือ C++, Node.js, Python , Java , JavaScript , Data Sci , N8N , HTML , CSS , SQL**
+- 🏰 Currently studying at : Kasetsart University, Kamphaeng Saen Campus
+- 📚 Major :  Information Technology (IT)
+- 🌱 Learning more about (กำลังเรียนรู้เพิ่มเติมเกี่ยวกับ): **New AI Technology , Cybersecurity , Sustainable Technology**
+- 💬 ถามได้เรื่อง: **ทักษะที่ถนัด คือ C++, Node.js, Python , Java , JavaScript , Data Sci , N8N , HTML , CSS , SQL , OS , DX , Automation **
+- 🤔 Things of Interest : **https://chatgpt.com/c/6b0678d6-be30-83ec-bae3-f34e960fbf45#:~:text=Blockchain%20Technology
 - 📫 ช่องทางติดต่อ: **E-mail : atikom.u@ku.th**
+
 
 
 ---
@@ -31,10 +35,7 @@
 
 </div>
 
-**Data, Automation & Security:**
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-
-[Project] : ระบบตอบกลับลูกค้าอัตโนมัต
+[Project] : ระบบรับออเดอร์ลูกค้าและวิเคราะห์ต้นทุนพร้อมระบบตอบกลับอัตโนมัติ
 
 ### 🌐 ช่องทางติดตาม
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atikom.u@ku.th)
