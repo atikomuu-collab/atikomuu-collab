@@ -2,16 +2,16 @@
 # Hello everyone!!! I’m Kichiro (name in english)
 
 <div align="center">
-  <!-- เอฟเฟกต์พื้นหลังคลื่นเคลื่อนไหวด้านบน -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1B27,50:3B4261,100:7AA2F7&height=120&section=header&animation=twinkling" width="100%" />
+  <!-- คลื่นพื้นหลังด้านบน -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1B27,50:3B4261,100:7AA2F7&height=120&section=header" width="100%" />
 
-  <!-- ข้อความพิมพ์อัตโนมัติ (แก้ชื่อและ Username ในวงเล็บ) -->
-  <a href="https://github.com/atikomuu-collab">
-    <img src="https://readme-typing-svg.demolab.com?font=Prompt&weight=600&size=26&duration=3500&pause=1000&color=7AA2F7&center=true&vCenter=true&width=680&lines=สวัสดี+!!!+Kichiro;นิสิตสาขาเทคโนโลยีสารสนเทศ;Workflow+Automation+%26+Data+Analytics" alt="Typing SVG" />
+  <!-- ข้อความพิมพ์อัตโนมัติ (แก้เฉพาะในวงเล็บและลบวงเล็บออก) -->
+  <a href="https://github.com/[ใส่_Username_GitHub]">
+    <img src="https://readme-typing-svg.demolab.com?font=Prompt&weight=600&size=26&duration=3500&pause=1000&color=7AA2F7&center=true&vCenter=true&width=680&lines=Hi%2C+I'm+Kichiro;%E0%B8%99%E0%B8%B4%E0%B8%AA%E0%B8%B4%E0%B8%95%E0%B8%AA%E0%B8%B2%E0%B8%82%E0%B8%B2%E0%B9%80%E0%B8%97%E0%B8%84%E0%B9%82%E0%B8%99%E0%B9%82%E0%B8%A5%E0%B8%A2%E0%B8%B5%E0%B8%AA%E0%B8%B2%E0%B8%A3%E0%B8%AA%E0%B8%99%E0%B9%80%E0%B8%97%E0%B8%A8;Workflow+Automation+%26+Data+Analytics" alt="Typing SVG" />
   </a>
 
-  <!-- เอฟเฟกต์พื้นหลังคลื่นเคลื่อนไหวด้านล่าง -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1B27,50:3B4261,100:7AA2F7&height=80&section=footer&animation=twinkling" width="100%" />
+  <!-- คลื่นพื้นหลังด้านล่าง -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1B27,50:3B4261,100:7AA2F7&height=80&section=footer" width="100%" />
 </div>
 **ตำแหน่งงาน / สิ่งที่คุณสนใจ : Software Tester, IT Security , Data Analyst**
 
