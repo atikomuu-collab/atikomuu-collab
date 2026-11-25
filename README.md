@@ -12,12 +12,12 @@
   <!-- คลื่นพื้นหลังด้านล่าง -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1B27,50:3B4261,100:7AA2F7&height=80&section=footer" width="100%" />
 </div>
-**ตำแหน่งงาน / สิ่งที่คุณสนใจ : Software Tester, IT Security , Data Analyst**
+**ตำแหน่งงาน / สิ่งที่สนใจ : Software Tester, IT Security , Data Analyst**
 
 - 🏰 Currently studying at : Kasetsart University, Kamphaeng Saen Campus
 - 📚 Major :  Information Technology (IT)
-- 🌱 Learning more about (กำลังเรียนรู้เพิ่มเติมเกี่ยวกับ): **New AI Technology , Cybersecurity , Sustainable Technology**
-- 💬 ถามได้เรื่อง: **ทักษะที่ถนัด คือ C++, Node.js, Python , Java , JavaScript , Data Sci , N8N , HTML , CSS , SQL , OS , DX , Automation **
+- 🌱 Learning more about (กำลังเรียนรู้เพิ่มเติมเกี่ยวกับ) : **New AI Technology , Cybersecurity , Sustainable Technology**
+- 💬 ถามได้เรื่อง : **ทักษะที่ถนัด คือ C++, Node.js, Python , Java , JavaScript , Data Sci , N8N , HTML , CSS , SQL , OS , DX , Automation **
 - 🤔 Things of Interest : **Blockchain Technology , Network Engineering , AI Security , Agentic AI**
 - 📫 ช่องทางติดต่อ: **E-mail : atikom.u@ku.th**
 
