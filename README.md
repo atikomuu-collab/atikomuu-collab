@@ -12,13 +12,13 @@
   <!-- คลื่นพื้นหลังด้านล่าง -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1B27,50:3B4261,100:7AA2F7&height=80&section=footer" width="100%" />
 </div>
-**ตำแหน่งงาน / สิ่งที่สนใจ : Software Tester, IT Security , Data Analyst**
+**ตำแหน่งงาน / สิ่งที่สนใจ : Software Tester, IT Security , Data Analyst , ML**
 
 - 🏰 Currently studying at : Kasetsart University, Kamphaeng Saen Campus
 - 📚 Major :  Information Technology (IT)
 - 🌱 Learning more about (กำลังเรียนรู้เพิ่มเติมเกี่ยวกับ) : **New AI Technology , Cybersecurity , Sustainable Technology**
 - 💬 ถามได้เรื่อง : **ทักษะที่ถนัด คือ C++, Node.js, Python , Java , JavaScript , Data Sci , N8N , HTML , CSS , SQL , OS , DX , Automation **
-- 🤔 Things of Interest : **Blockchain Technology , Network Engineering , AI Security , Agentic AI**
+- 🤔 Things of Interest : **Blockchain Technology , Network Engineering , AI Security , Agentic AI , OS , SA & Design , **
 - 📫 ช่องทางติดต่อ: **E-mail : atikom.u@ku.th**
 
 
@@ -37,11 +37,15 @@
 
 <img src="https://skillicons.dev/icons?i=vscode,git,github,postman,kali,linux,docker" />
 
+
+
 <br><br>
 
 **Data Science & Automation**
 
 <img src="https://img.shields.io/badge/Data_Science-150458?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+<img width="100" height="45" alt="Tableau-Logo" src="https://github.com/user-attachments/assets/5b16d8fc-ef12-4211-8731-2b341d1c65f5" />
+
 
 </div>
 
